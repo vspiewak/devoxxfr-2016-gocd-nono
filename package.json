@@ -6,6 +6,7 @@
   "description": "A simple helpful robot for your Company",
   "dependencies": {
     "hubot": "^2.18.0",
+    "hubot-ansible": "^0.1.2",
     "hubot-diagnostics": "0.0.1",
     "hubot-gocd": "git+https://github.com/vspiewak/hubot-gocd.git",
     "hubot-google-images": "^0.2.6",
